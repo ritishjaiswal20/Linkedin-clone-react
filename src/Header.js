@@ -27,6 +27,10 @@ function Header() {
         <HeaderOptions Icon={BusinessCenterIcon} title="MyNetwork" />
         <HeaderOptions Icon={ChatIcon} title="MyNetwork" />
         <HeaderOptions Icon={NotificationsIcon} title="MyNetwork" />
+        <HeaderOptions
+          avatar="https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584__340.png"
+          title="me"
+        />
       </div>
     </div>
   );
